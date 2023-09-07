@@ -1,9 +1,11 @@
+using System.Reflection;
+
 namespace aruppgift
 {
     public class Shape
     {
-        public float width;
-        public float hight;
+        protected float width;
+        protected float hight;
 
         public Shape(float hight, float width)
         {

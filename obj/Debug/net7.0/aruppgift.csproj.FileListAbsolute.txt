@@ -12,3 +12,17 @@ C:\Users\Admin\Documents\GitHub\aruppgift\obj\Debug\net7.0\refint\aruppgift.dll
 C:\Users\Admin\Documents\GitHub\aruppgift\obj\Debug\net7.0\aruppgift.pdb
 C:\Users\Admin\Documents\GitHub\aruppgift\obj\Debug\net7.0\aruppgift.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\aruppgift\obj\Debug\net7.0\ref\aruppgift.dll
+C:\Users\Admin\Documents\GitHub\Arvuppgift\bin\Debug\net7.0\aruppgift.exe
+C:\Users\Admin\Documents\GitHub\Arvuppgift\bin\Debug\net7.0\aruppgift.deps.json
+C:\Users\Admin\Documents\GitHub\Arvuppgift\bin\Debug\net7.0\aruppgift.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Arvuppgift\bin\Debug\net7.0\aruppgift.dll
+C:\Users\Admin\Documents\GitHub\Arvuppgift\bin\Debug\net7.0\aruppgift.pdb
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.dll
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\refint\aruppgift.dll
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.pdb
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\aruppgift.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Arvuppgift\obj\Debug\net7.0\ref\aruppgift.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\aruppgift\\aruppgift.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Arvuppgift\\aruppgift.csproj",
       "projectName": "aruppgift",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\aruppgift\\aruppgift.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Arvuppgift\\aruppgift.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\aruppgift\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Arvuppgift\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

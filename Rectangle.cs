@@ -2,12 +2,8 @@ namespace aruppgift
 {
     public class Rectangle: Shape
     {
-        public float area;
-        public float omkrets;
         public Rectangle(float input1, float input2) : base(input1, input2)
         {
-            omkrets = Omkrets(input1, input2);
-            area = Area(input1, input2);    
         }
 
         public float Omkrets(float height, float width)
