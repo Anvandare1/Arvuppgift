@@ -10,7 +10,7 @@ var Input3 = Console.ReadLine();
 var Input5 = float.Parse(Input3);
 Console.Write("Ange Bas: ");
 var Input4 = Console.ReadLine();
-var Input6 = float.Parse(Input3);
+var Input6 = float.Parse(Input4);
 if(Input == "Rektangel")
 {
     Rectangle Rectangle1 = new Rectangle(Input5, Input6);
